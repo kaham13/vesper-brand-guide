@@ -1,0 +1,21 @@
+# Dependencies and generated output
+node_modules/
+dist/
+build/
+coverage/
+.vercel/
+
+# Secrets and environment files
+.env
+.env.*
+*.pem
+*.key
+
+# Local tools and operating system files
+.DS_Store
+Thumbs.db
+*.log
+.codex/
+.agents/
+.idea/
+.vscode/
